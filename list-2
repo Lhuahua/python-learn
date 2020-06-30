@@ -1,0 +1,2 @@
+place=['shanghai','beijing','chongqing','xhengdu','guangzhou']
+len(place)
